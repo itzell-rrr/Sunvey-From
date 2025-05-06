@@ -1,0 +1,20 @@
+<h1 id="title">itzell</h1>
+  <p id="description">itzell</p>
+  <form id="survey-form">
+   <input required placeholder="name" id="name">
+   <input required placeholder="email" type="email" id="email">
+  <input min="16" max="40" placeholder="number"type="number" id="number"></input>
+   <label id="name-label">name</label>
+  <label id="email-label">email</label>
+  <label id="number-label">number</label>
+   <select id="dropdown">
+    <option></option>
+    <option></option>
+    <input name="itzell" value="itzell"type="radio"></input>
+  <input name="itzell" value="itzell" type="radio"></input>
+   <input  value="itzell" type="checkbox"></input>
+   <input  value="itzell" type="checkbox"></input>
+   <textarea></textarea>
+    <button id="submit"></button>
+  </select>
+  </form>
